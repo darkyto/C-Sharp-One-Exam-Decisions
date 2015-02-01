@@ -1,0 +1,6 @@
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\001_Garden12pm\bin\Debug\001_Garden12pm.exe.config
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\001_Garden12pm\obj\Debug\001_Garden12pm.csprojResolveAssemblyReference.cache
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\001_Garden12pm\bin\Debug\001_Garden12pm.exe
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\001_Garden12pm\bin\Debug\001_Garden12pm.pdb
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\001_Garden12pm\obj\Debug\001_Garden12pm.exe
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\001_Garden12pm\obj\Debug\001_Garden12pm.pdb

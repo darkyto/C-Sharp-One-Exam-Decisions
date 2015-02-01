@@ -1,0 +1,6 @@
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe.config
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\DrunkenNumbers\bin\Debug\DrunkenNumbers.exe
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\DrunkenNumbers\bin\Debug\DrunkenNumbers.pdb
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\DrunkenNumbers\obj\Debug\DrunkenNumbers.csprojResolveAssemblyReference.cache
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\DrunkenNumbers\obj\Debug\DrunkenNumbers.exe
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\DrunkenNumbers\obj\Debug\DrunkenNumbers.pdb

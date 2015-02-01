@@ -1,0 +1,6 @@
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\CarWars_1750pm\bin\Debug\CarWars_1750pm.exe.config
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\CarWars_1750pm\obj\Debug\CarWars_1750pm.csprojResolveAssemblyReference.cache
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\CarWars_1750pm\bin\Debug\CarWars_1750pm.exe
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\CarWars_1750pm\bin\Debug\CarWars_1750pm.pdb
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\CarWars_1750pm\obj\Debug\CarWars_1750pm.exe
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\CarWars_1750pm\obj\Debug\CarWars_1750pm.pdb

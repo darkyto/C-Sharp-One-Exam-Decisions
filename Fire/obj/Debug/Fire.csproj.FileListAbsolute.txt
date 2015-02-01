@@ -1,0 +1,6 @@
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\Fire\bin\Debug\Fire.exe.config
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\Fire\bin\Debug\Fire.exe
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\Fire\bin\Debug\Fire.pdb
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\Fire\obj\Debug\Fire.exe
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\Fire\obj\Debug\Fire.pdb
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\Fire\obj\Debug\Fire.csprojResolveAssemblyReference.cache

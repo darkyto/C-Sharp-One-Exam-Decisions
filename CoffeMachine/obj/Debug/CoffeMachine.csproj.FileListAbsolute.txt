@@ -1,0 +1,6 @@
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\CoffeMachine\bin\Debug\CoffeMachine.exe.config
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\CoffeMachine\bin\Debug\CoffeMachine.exe
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\CoffeMachine\bin\Debug\CoffeMachine.pdb
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\CoffeMachine\obj\Debug\CoffeMachine.csprojResolveAssemblyReference.cache
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\CoffeMachine\obj\Debug\CoffeMachine.exe
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\CoffeMachine\obj\Debug\CoffeMachine.pdb

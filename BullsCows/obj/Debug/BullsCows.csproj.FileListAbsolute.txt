@@ -1,0 +1,6 @@
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\BullsCows\bin\Debug\BullsCows.exe.config
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\BullsCows\bin\Debug\BullsCows.exe
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\BullsCows\bin\Debug\BullsCows.pdb
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\BullsCows\obj\Debug\BullsCows.csprojResolveAssemblyReference.cache
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\BullsCows\obj\Debug\BullsCows.exe
+D:\TELERIK\C#\MyOwnScrapTempProject\ExamTest_Coffe17pm\BullsCows\obj\Debug\BullsCows.pdb
